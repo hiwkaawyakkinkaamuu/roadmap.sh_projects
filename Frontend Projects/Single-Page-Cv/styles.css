@@ -1,0 +1,14 @@
+header, section {
+    margin:20px;
+    font-family:Arial;
+}
+
+.Topic {
+    color:rgb(0, 151, 10);
+    font-size:20px;
+}
+
+.Second-Topic {
+    color:rgb(84, 89, 224);
+    font-size:17px;
+}
