@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;    
+    padding: 20px;    
+}       
+
+.my-name {
+    text-align: left;                
+}
+
+nav a {
+    text-decoration: none;  
+    margin-left: 15px;     
+}
+
+h1 {
+    text-align: center;
+}
+
+#sub-head-one {
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+}
